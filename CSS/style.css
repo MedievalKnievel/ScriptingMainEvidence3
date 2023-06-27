@@ -1,0 +1,76 @@
+.main {
+    background-color: black !important;
+    color: white !important;
+    z-index: 1 !important;
+}
+
+#font {
+    font-family: fantasy !important;
+}
+
+#fontTwo {
+    font-family: fantasy !important;
+}
+
+#fontThree {
+    font-family: fantasy !important;
+}
+
+.paragraph {
+    font-family: fantasy;
+    color: white;
+    align-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 550px;
+}
+
+nav {
+    font-family: fantasy;
+    z-index: 1 !important;
+}
+
+.navbar-brand {
+    padding-left: 0.5vw;
+}
+
+.pic {
+    left: 18%;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+.imgbox {
+    display: grid;
+    height: 100%;
+/* Smith (2011) GraphicsDrawer source code (Version 2.0) [Source code]. http://www.graphicsdrawer.com */
+}
+
+.center-fit {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+    padding-bottom: 35px;
+/* Smith (2018) How to resize an image to fit in the browser window (Version 2.0) [Source code]. https://stackoverflow.com/questions/6169666/how-to-resize-an-image-to-fit-in-the-browser-window */
+}
+
+.contactPic {
+    padding-bottom: 1px !important;
+}
+
+#pointer {
+ position: absolute;
+ border-radius: 50%;
+ height: 5px;
+ width: 5px;
+ background-color: yellow;
+ z-index: 0;
+}
+
+#heading {
+    color: yellow;
+}
